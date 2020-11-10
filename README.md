@@ -12,8 +12,13 @@ tujuannya agar dapat membuat aplikasi yang terdiri dari beberapa bahasa pemogram
 * sistem ini dapat juga mengirimkan ke email jika event sudah mencapat (day-1)
 
 ## Rencana Modul 
-* Register User 
-* 
+* User Management
+* Event 
+
+## Talks 
+* Git for Everyone
+* Telegram Intregation with JS
+
 
 ## Ingin menambahakan ide feature atau modul ? 
 jika anda ingin menambahakan ide feature baru, silahkan buat dahulu issues agar kita bisa berdiskusi dalam issues dan jika featurenya dikira sudah fix dan di approve silahkan ajukan pull request agar di merge ke master
